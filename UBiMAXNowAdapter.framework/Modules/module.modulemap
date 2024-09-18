@@ -1,0 +1,6 @@
+framework module UBiMAXNowAdapter {
+  umbrella header "UBiMAXNowAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
