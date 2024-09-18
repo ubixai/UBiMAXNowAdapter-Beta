@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
     'OTHER_LINK_FLAG' => '$(inherited) -ObjC' }
   
  s.dependency 'UBiXMediationSDK'
- s.dependency 'UBiMAXAdSDK'
+ s.dependency 'UBiMAXAdSDK-Beta'
 
 end
