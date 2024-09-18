@@ -1,0 +1,2 @@
+# UBiMAXNowAdapter-Beta
+UBiMAXNowAdapter-Beta
